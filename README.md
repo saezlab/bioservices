@@ -1,2 +1,0 @@
-# bioservices
-Link to BioServices
